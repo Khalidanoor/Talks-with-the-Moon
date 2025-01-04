@@ -1,0 +1,25 @@
+.body{
+    
+    background-color: white;
+    color: black;
+    font-family: roboto;
+    padding: 20px;
+}
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: white;
+    
+   }
+.pic{
+   width: 90%;
+   border-radius: 10px;
+   
+}
+.contentpara{
+font-size: 23px;
+text-align: justify;
+
+}
